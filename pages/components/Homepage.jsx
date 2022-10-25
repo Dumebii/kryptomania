@@ -1,9 +1,12 @@
+import Image from 'next/image'
+import krypto from '../../public/krpto1.jpg'
+
 function Homepage() {
     return(
-    <div class="bg-[url('../../public/background.jpg')]">
-
+    <div className="">
+     <Image src={krypto} />
     </div>
     )
-}
+} 
 
 export default Homepage;
