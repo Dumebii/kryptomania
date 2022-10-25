@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
+import Buttons from './components/Buttons'
 import Homepage from './components/Homepage'
 import Navigationbar from './components/Navbar'
 
@@ -15,6 +16,7 @@ export default function Home() {
       <main>
        <Navigationbar />
        <Homepage />
+       <Buttons />
       </main>
 
     </div>
