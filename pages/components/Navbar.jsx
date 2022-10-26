@@ -12,10 +12,10 @@ function Navigationbar() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="wa.link/5rulrl" className='text-white'>Contact</Nav.Link>
-            <Nav.Link href="https://instagram.com/trade_with_kryptomania?igshid=YmMyMTA2M2Y=" className='text-white'>Socials</Nav.Link>
-            <Nav.Link href="https://twitter.com/Kryptomania9?t=yorSooDP1Z1dpfODelt7Rw&s=09" className='text-white'>Twitter</Nav.Link>
-            <Nav.Link href="https://instagram.com/trade_with_kryptomania?igshid=YmMyMTA2M2Y=" className='text-white'>Instagram</Nav.Link>
+            <Nav.Link href="wa.link/5rulrl" className='text-gray-900'>Contact</Nav.Link>
+            <Nav.Link href="https://instagram.com/trade_with_kryptomania?igshid=YmMyMTA2M2Y=" className='text-gray-900'>Socials</Nav.Link>
+            <Nav.Link href="https://twitter.com/Kryptomania9?t=yorSooDP1Z1dpfODelt7Rw&s=09" className='text-gray-900'>Twitter</Nav.Link>
+            <Nav.Link href="https://instagram.com/trade_with_kryptomania?igshid=YmMyMTA2M2Y=" className='text-gray-900'>Instagram</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
