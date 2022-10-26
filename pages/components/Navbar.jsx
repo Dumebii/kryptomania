@@ -6,7 +6,7 @@ import navbrand from '../../public/navbrand.jpg'
 
 function Navigationbar() {
   return (
-    <Navbar bg="dark" expand="lg" fixed='top' >
+    <Navbar bg="dark" expand="lg" >
       <Container className='justify-between flex gap-5'>
         <Navbar.Brand href="#home"><Image src={navbrand} alt="navbrand" width={50} height={50} className='rounded-full' /></Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
