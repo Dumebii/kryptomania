@@ -13,7 +13,7 @@ import img7 from '../../public/navbrand.jpg'
 
 const Carousels = () => {
   return (
-    <div><Carousel>
+    <div><Carousel indicators={false}>
     <Carousel.Item interval={600}>
       <Image
         // className="d-block w-100"
