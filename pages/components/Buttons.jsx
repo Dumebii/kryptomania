@@ -7,7 +7,7 @@ import {BsInstagram} from 'react-icons/bs'
 const Buttons = () => {
   return (
     <div >
-        <div className='flex gap-10 lg:ml-[400px] md:ml-10 ml-5 mt-10 mb-10'>
+        <div className='flex gap-10 lg:ml-[400px] md:ml-10 justify-around mt-10 mb-10'>
             <button className='bg-blue-600 hover:bg-orange-500 rounded-2xl md:text-2xl pb-2 pr-5 w-[10rem] 
             p-2 lg:text-2xl text-sm text-white'>
             <a className='no-underline text-white' href='wa.link/5rulrl'>
