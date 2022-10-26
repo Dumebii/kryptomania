@@ -8,7 +8,7 @@ function Navigationbar() {
   return (
     <Navbar bg="light" expand="lg" >
       <Container className='justify-between flex gap-5'>
-        <Navbar.Brand href="#home"><Image src={navbrand} alt="navbrand" width={30} height={30} className='rounded-full' /></Navbar.Brand>
+        <Navbar.Brand href="#home"><Image src={navbrand} alt="navbrand" width={30} height={30} className="rounded-full" /></Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
