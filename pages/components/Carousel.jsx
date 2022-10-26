@@ -16,49 +16,42 @@ const Carousels = () => {
     <div><Carousel indicators={false} controls={false} >
     <Carousel.Item interval={600}>
       <Image
-        // className="d-block w-100"
         src={img1}
         alt="First slide"
       />
     </Carousel.Item>
     <Carousel.Item interval={600}>
       <Image
-        // className="d-block w-100"
         src={img2}
         alt="Second slide"
       />
     </Carousel.Item>
     <Carousel.Item interval={600}>
       <Image
-        // className="d-block w-100"
         src={img3}
         alt="Third slide"
       />
     </Carousel.Item>
     <Carousel.Item interval={600}>
       <Image
-        // className="d-block w-100"
         src={img4}
         alt="Third slide"
       />
     </Carousel.Item>
     <Carousel.Item interval={600}>
       <Image
-        // className="d-block w-100"
         src={img5}
         alt="Third slide"
       />
     </Carousel.Item>
     <Carousel.Item interval={600}>
       <Image
-        // className="d-block w-100"
         src={img6}
         alt="Third slide"
       />
     </Carousel.Item>
     <Carousel.Item interval={600}>
       <Image
-        // className="d-block w-100"
         src={img7}
         alt="Third slide"
       />
