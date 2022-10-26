@@ -10,7 +10,7 @@ const Buttons = () => {
         <div className='flex gap-10 lg:ml-[400px] md:ml-10 justify-around mt-10 mb-10'>
             <button className='bg-blue-600 hover:bg-orange-500 rounded-2xl md:text-2xl pb-2 pr-7
             p-2 lg:text-2xl text-sm text-white'>
-            <a className='no-underline text-white' href='wa.link/5rulrl'>
+            <a className='no-underline text-white' hrefhttps://wa.me/message/OM5UPFY3SGRPC1 '>
               <FaWhatsapp className='inline text-lime-300 md:text-2xl lg:text-2xl text-sm' /> Whatsapp
             </a>
             </button>
