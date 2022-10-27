@@ -10,19 +10,19 @@ const Buttons = () => {
         <div className='flex gap-10 lg:ml-[400px] md:ml-10 justify-around mt-10 mb-10'>
             <button className='bg-blue-600 hover:bg-orange-500 rounded-2xl md:text-2xl pb-2 pr-7
             p-2 lg:text-2xl text-sm text-white'>
-            <a className='no-underline text-white' href='https://wa.me/message/OM5UPFY3SGRPC1'>
+            <a className='no-underline text-white' href='https://wa.me/message/OM5UPFY3SGRPC1' target="_blank">
               <FaWhatsapp className='inline text-lime-300 md:text-2xl lg:text-2xl text-sm' /> Whatsapp
             </a>
             </button>
             <button className='bg-blue-600 hover:bg-orange-500 rounded-2xl md:text-2xl
          p-2  lg:text-2xl text-sm text-white'>
-             <a className="no-underline text-white" href='https://twitter.com/Kryptomania9?t=yorSooDP1Z1dpfODelt7Rw&s=09'>
+             <a className="no-underline text-white" href='https://twitter.com/Kryptomania9?t=yorSooDP1Z1dpfODelt7Rw&s=09' target="_blank">
              <FaTwitter className='inline text-sky-300 lg:text-2xl md:text-2xl text-sm' /> Twitter
              </a>
             </button>
             <button className='bg-blue-600 hover:bg-orange-500 rounded-2xl 
             md:text-2xl p-2 lg:text-2xl text-sm text-white'>
-                <a href='https://instagram.com/trade_with_kryptomania?igshid=YmMyMTA2M2Y=' className='no-underline text-white'>
+                <a href='https://instagram.com/trade_with_kryptomania?igshid=YmMyMTA2M2Y=' className='no-underline text-white' target="_blank">
                 <BsInstagram className='inline text-pink-800 text-sm md:text-2xl lg:text-2xl' /> Instagram 
                 </a>
             </button>
