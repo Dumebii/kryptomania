@@ -9,7 +9,7 @@ const Footer = () => {
         <Image src={navbrand} alt="navbrand" width={50} height={50} className='rounded-full' />
         <a href='https://wa.me/message/OM5UPFY3SGRPC1' target="_blank" 
         className='no-underline text-gray-900 lg:text-4xl md:text-4xl'>Contact Us</a>
-        <a href="https://twitter.com/Kryptomania9?t=yorSooDP1Z1dpfODelt7Rw&s=09" target="_blank"
+        <a href="https://twitter.com/Krptomania?t=8JirOOvzUsw8tmHar4gUSA&s=09" target="_blank"
          className='no-underline text-gray-900 lg:text-4xl md:text-4xl'>Twitter</a>
         <a href="https://instagram.com/trade_with_kryptomania?igshid=YmMyMTA2M2Y=" target="_blank"
         className='no-underline text-gray-900 lg:text-4xl md:text-4xl'>Instagram</a>
