@@ -14,7 +14,7 @@ function Navigationbar() {
           <Nav className="me-auto">
             <Nav.Link href="https://wa.me/message/OM5UPFY3SGRPC1" target="_blank" className='text-gray-900'>Contact</Nav.Link>
             <Nav.Link href="https://instagram.com/trade_with_kryptomania?igshid=YmMyMTA2M2Y=" target="_blank" className='text-gray-900'>Socials</Nav.Link>
-            <Nav.Link href="https://twitter.com/Kryptomania9?t=yorSooDP1Z1dpfODelt7Rw&s=09" target="_blank" className='text-gray-900'>Twitter</Nav.Link>
+            <Nav.Link href="https://twitter.com/Krptomania?t=8JirOOvzUsw8tmHar4gUSA&s=09" target="_blank" className='text-gray-900'>Twitter</Nav.Link>
             <Nav.Link href="https://instagram.com/trade_with_kryptomania?igshid=YmMyMTA2M2Y=" target="_blank" className='text-gray-900'>Instagram</Nav.Link>
           </Nav>
         </Navbar.Collapse>
