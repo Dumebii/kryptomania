@@ -16,7 +16,7 @@ const Buttons = () => {
             </button>
             <button className='bg-blue-600 hover:bg-orange-500 rounded-2xl md:text-2xl
          p-2  lg:text-2xl text-sm text-white'>
-             <a className="no-underline text-white" href='https://twitter.com/Kryptomania9?t=yorSooDP1Z1dpfODelt7Rw&s=09' target="_blank">
+             <a className="no-underline text-white" href='https://twitter.com/Krptomania?t=8JirOOvzUsw8tmHar4gUSA&s=09' target="_blank">
              <FaTwitter className='inline text-sky-300 lg:text-2xl md:text-2xl text-sm' /> Twitter
              </a>
             </button>
